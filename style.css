@@ -1,0 +1,124 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+
+body{
+    background-color: #2a3038;
+}
+
+.col-6{
+    color: #FFA800;
+    font-family: 'Gilroy-Medium', sans-serif;
+}
+
+.fingos1{
+    padding-top: 100px;
+}
+
+.first-row{
+    padding-left: 15%;
+}
+
+.taskbar{
+    padding-left: 10%;
+}
+
+.second-row{
+    padding-right: 13%;
+    padding-top: 80px;
+}
+
+.blue{
+    color: #0D6EFD;
+}
+
+.KDE{
+    padding-left: 20%;
+}
+
+.third-row{
+    padding-right: 13%;
+    padding-top: 80px;
+}
+
+.tobb{
+    color: #fe4b20;
+}
+
+.verzio{
+    color: #00b60d;
+}
+
+.third{
+    padding-left: 15%;
+    padding-top: 40px;
+}
+
+.third3{
+    padding-left: 2%;
+}
+
+    .four-row {
+        background: linear-gradient(240deg, #ffa800, #0d6efd);
+        background-size: 400% 400%;
+    
+        -webkit-animation: AnimationName 34s ease infinite;
+        -moz-animation: AnimationName 34s ease infinite;
+        animation: AnimationName 34s ease infinite;
+    }
+    
+    @-webkit-keyframes AnimationName {
+        0%{background-position:0% 54%}
+        50%{background-position:100% 47%}
+        100%{background-position:0% 54%}
+    }
+    @-moz-keyframes AnimationName {
+        0%{background-position:0% 54%}
+        50%{background-position:100% 47%}
+        100%{background-position:0% 54%}
+    }
+    @keyframes AnimationName {
+        0%{background-position:0% 54%}
+        50%{background-position:100% 47%}
+        100%{background-position:0% 54%}
+    }
+
+    .col-12{
+        font-family: 'Gilroy-Medium', sans-serif;
+    }
+
+    .discordtext{
+        text-align: center;
+    }
+
+    .bottom{
+        background-color: #20252b;
+    }
+
+    a{
+        text-decoration: none;
+    }
+
+    .alert{
+        background-color: #ffbf40;
+        width: 75%;
+        text-align: center;
+    }
+
+    .alert-text{
+        padding-top: 10px;
+    }
+
+    .alert-box{
+        text-align: center;
+    }
+
+    .logo5{
+        text-align: center;
+    }
+
+    h5{
+        font-family: 'Gilroy-Medium', sans-serif;
+    }
+
+    h1{
+        font-family: 'Gilroy-Medium', sans-serif;
+    }
